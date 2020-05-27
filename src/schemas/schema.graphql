@@ -1,0 +1,16 @@
+"Data for an reaction payment skeleton"
+type ReactionPaymentSkeletonData {
+  "The id of the reaction payment payer"
+  customerId: String!
+  "The name of the reaction payment payer entered by the shopper"
+  fullName: String!
+  "The card number of the reaction payment payer entered by the shopper"
+  cardNumber: String!
+}
+
+extend union PaymentData = ReactionPaymentSkeletonData
+
+extend enum PaymentMethodName {
+  "reaction payment skeleton"
+  reaction_payment_skeleton
+}
