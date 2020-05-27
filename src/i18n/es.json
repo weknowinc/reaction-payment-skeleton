@@ -1,0 +1,14 @@
+[{
+  "language": "Spanish",
+  "i18n": "es",
+  "ns": "reaction-payment-skeleton",
+  "translation": {
+    "example-paymentmethod": {
+      "admin": {
+        "shortcut": {},
+        "dashboard": {},
+        "paymentSettings": {}
+      }
+    }
+  }
+}]
