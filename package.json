@@ -1,5 +1,5 @@
 {
-  "name": "reaction-payment-skeleton",
+  "name": "@weknow/reaction-payment-skeleton",
   "description": "Weknow Reaction Payment Skeleton plugin for the Reaction API",
   "version": "0.0.1",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "author": {
     "name": "Weknow",
     "email": "msantibanez@weknowinc.com",
-    "url": "https://reactioncommerce.com"
+    "url": "https://weknowinc.com/"
   },
   "license": "GPL-3.0",
   "bugs": {
@@ -83,7 +83,7 @@
   },
   "release": {
     "branches": [
-      "trunk"
+      "master"
     ]
   },
   "publishConfig": {

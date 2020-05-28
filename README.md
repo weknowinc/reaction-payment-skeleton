@@ -7,7 +7,7 @@ You have 3 options to install this plugin in reaction commerce api.
 
 ### From npm:
 
-```npm install [package name] --save```
+```npm install @weknow/reaction-payment-skeleton --save```
 
 ### From github:
 
@@ -39,7 +39,7 @@ To install the plugin you need to edit ```plugins.json``` that it's in the root 
 {
  ...
  "addressValidationTest": "@reactioncommerce/api-plugin-address-validation-test",
- "reactionPaymentSkeleton": "reaction-payment-skeleton"
+ "reactionPaymentSkeleton": "@weknow/reaction-payment-skeleton"
 }
 
 ```
