@@ -44,3 +44,5 @@ To install the plugin you need to edit ```plugins.json``` that it's in the root 
 
 ```
 Restart the reaction api project and the plugin should be installed.
+
+For the storefront component we have [reaction-payment-skeleton](https://github.com/weknowinc/reaction-payment-skeleton) that you can use if you are using the reaction [example-storefront](https://github.com/reactioncommerce/example-storefront/) project.
